@@ -900,13 +900,7 @@
       "shortLabel": "other",
       "icon": "file",
       "folder": "other",
-      "docs": [
-        {
-          "name": "other",
-          "period": "other",
-          "href": "https://cdn.jsdelivr.net/gh/sukra-pharma/meeting/other/other/other.pdf"
-        }
-      ]
+      "docs": []
     }
   ]
 }
