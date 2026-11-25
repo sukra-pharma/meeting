@@ -901,7 +901,12 @@
       "shortLabel": "other",
       "icon": "book",
       "folder": "other",
-      "docs": []
+      "docs": [
+        {
+          "name": "other",
+          "href": "https://cdn.jsdelivr.net/gh/sukra-pharma/meeting/other/other/other.pdf"
+        }
+      ]
     }
   ]
 }
