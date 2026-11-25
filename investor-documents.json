@@ -893,6 +893,14 @@
           "href": "https://cdn.jsdelivr.net/gh/sukra-pharma/meeting/Regulations/Company%20Policies/Vigil%20mechanisnm%20or%20whistle%20blower%20policy/Vigil%20mechanism%20or%20whistle%20blower%20policy.pdf"
         }
       ]
+    },
+    {
+      "key": "other",
+      "label": "other",
+      "shortLabel": "other",
+      "icon": "calendar",
+      "folder": "other",
+      "docs": []
     }
   ]
 }
